@@ -1,0 +1,750 @@
+TERMS OF USE
+
+Terms of Use for the Diagnosta EDU Educational Application
+
+General Provisions
+
+1.1. These Terms of Use define the rules for using the Diagnosta EDU software – hereinafter referred to as the “Application.” By using the Application, the User accepts all provisions of these Terms, including the data protection rules and licensing terms.
+
+1.2. These Terms are governed by Polish law and have been prepared in accordance with applicable regulations, including the Consumer Rights Act and the General Data Protection Regulation (GDPR)⁽¹⁾.
+
+1.3. The following documents are annexed to these Terms and form an integral part thereof: the Privacy Policy, the Technical Requirements, and the End User License Agreement (EULA). All annexes are available in the same format and location as the main document.
+
+1.4. The administrator of personal data and the entity responsible for providing and maintaining the Application is a private individual – Damian Kuliś, residing at Jarosława Dąbrowskiego 18/6, 02-561 Warsaw, Poland.
+
+1.5. Damian Kuliś operates on a non-registered basis, under his own name and the unregistered brand KULJO APPS, without conducting a business activity as defined by the Polish Entrepreneurs’ Law (Journal of Laws of the Republic of Poland 2018, item 646).
+
+
+2. Definitions
+
+2.1. The following terms used in these Terms of Use shall have the following meanings:
+
+2.1.1. Terms (of Use) – this document, which sets out the rules for using the Application.
+
+2.1.2. Application – the educational software “Diagnosta EDU”, available on mobile devices and desktop computers, provided under the conditions specified in these Terms.
+
+2.1.3. Provider – Damian Kuliś, a private individual operating on a non-registered basis under the unregistered name KULJO APPS, acting solely in his own name and responsible for the provision and maintenance of the Application.
+
+2.1.4. User – any natural person using the Application in accordance with these Terms.
+
+2.1.5. Device – the User’s electronic end device that allows the installation and use of the Application, in particular a smartphone, tablet, desktop computer or laptop.
+
+2.1.6. Character – a fictional user account created and stored exclusively on the User’s Device.
+
+
+
+3. Technical Requirements
+
+3.1. To use the Application, the User must have a Device that meets the technical requirements described below.
+
+3.2. The minimum technical requirements for Devices are specified in Annex No. 3.
+
+3.3. The recommended technical requirements for Devices are also specified in Annex No. 3.
+
+3.4. If the Device does not meet the above minimum requirements, visual errors may occur while using the Application, and its performance may be slowed down or interrupted at any time.
+
+3.5. The Application requires access to certain essential system functions of the Device:
+
+3.5.1. Internet access, i.e. network data transmission.
+
+3.5.2. System notifications – this is not mandatory, but restricting the Application’s access to notifications on the Device may limit the functionality of some features.
+
+3.6. The complete technical requirements for all operating systems on which the Application may be installed are included in Annex No. 3 to these Terms.
+
+
+4. Distribution and Installation
+
+4.1. The Provider distributes the Application exclusively through authorized and official distribution channels that are native to the operating system of the User’s Device. These platforms are strictly limited to:
+
+Android – Google Play Store
+iOS – App Store
+macOS – App Store
+Windows – Microsoft Store
+Linux – Flatpak platform
+
+4.2. Users are solely responsible for all data transmission costs related to downloading, installing, launching, and using the Application, in accordance with the terms of agreements concluded with their telecommunications operators or internet service providers.
+
+4.3. The Provider is not liable for any charges imposed by operators or internet service providers for the data transmission necessary to use the Application.
+
+4.4. Upon installation and initial launch of the Application, the User is required to review and accept these Terms. Without acceptance, the functionalities of the Application will not be accessible.
+
+
+5. Functionality and Operation
+
+5.1. Diagnosta EDU is an educational application designed to assist candidates for vehicle inspection station diagnostician certification in preparing for the theoretical exam.
+
+5.2. This goal is achieved through an interactive learning system based on a proprietary question database, developed with reference to numerous legal acts that are essential in the work of a vehicle inspection diagnostician.
+
+5.3. The following is a brief overview of how the Application works:
+
+5.3.1. The User may create a Character; however, this is not required to use the Application.
+
+5.3.2. Creating a Character grants access to advanced statistics and a motivational system.
+
+5.3.3. The User can take tests consisting of grouped questions and practice with random questions in learning mode.
+
+5.3.4. It is possible to review answers, save completed tests, and mark important questions.
+
+5.3.5. Learning progress can be tracked through detailed statistics and a material completion indicator.
+
+5.3.6. All statistics are anonymous and do not allow the identification of the User as a natural person.
+
+5.3.7. After creating a Character, the User earns experience points, advances to new levels, and unlocks special achievements.
+
+5.3.8. The Application allows access to selected legal acts (requires an Internet connection), as well as offline access to the question database, correct answers, and their legal basis.
+
+5.3.9. Users may also enable local notifications on their Device to receive study reminders for the exam.
+
+5.4. The Provider reserves the right to introduce changes to the functionality of the Application, including the addition, modification, or removal of selected features.
+
+5.5. Any changes introduced may affect how the Application operates but will not alter its core purpose as an educational tool.
+
+
+6. Character – User Account
+
+6.1. Creating a Character is not required for general use of the Application. However, it provides access to many features reserved only for Users who have created their own Character in the Application.
+
+6.2. The following rules apply to the creation and use of a Character:
+
+6.2.1. The Character serves exclusively entertainment purposes that complement the educational nature of the Application.
+
+6.2.2. When creating a Character, the User is not required to provide any real personal data.
+
+6.2.3. The User must not use any words or proper names that are generally considered vulgar, offensive, or inappropriate as the Character’s name.
+
+6.2.4. It is forbidden for the User to use personal data of third parties—if knowingly—when naming the Character.
+
+6.2.5. When creating the 5-digit PIN code for the Character, the User should not use any number combinations that are also used for sensitive services (e.g., bank, email, government accounts).
+
+6.2.6. The PIN code is required only for deleting the Character. It is not used for logging in.
+
+6.2.7. The PIN code is encrypted on the Device and is not processed outside the Device.
+
+6.2.8. If access to the PIN code used for deleting the Character is lost, recovery is not possible.
+
+6.2.9. The User may have only one Character in the Application at any given time.
+
+6.2.10. All data related to the creation and use of the Character is stored exclusively on the Device.
+
+6.2.11. The Provider has no ability to remotely access any data related to the Character.
+
+6.2.12. Deleting the Character using the PIN code will erase all Character-related data and statistics from the Device.
+
+6.2.13. Deleting the Character is not considered equivalent to discontinuing the use of the Application.
+
+6.2.14. The Provider is not liable for any loss of Character-related data due to deletion or Device failure.
+
+6.3. The visual representations used to create Characters in the Application do not depict real individuals and have been generated using artificial intelligence tools.
+
+
+7. Free Access to the Application
+
+7.1. The Diagnosta EDU Application is completely free of charge and does not include any subscriptions or micro-transactions.
+
+7.2. All features are available to Users without the need to make any payments.
+
+7.3. The Application is and shall remain entirely free for Users for as long as it is provided by the current Provider.
+
+
+8. Contact and Technical Support
+
+8.1. If any issues with the Application are noticed, Users may contact the Provider via email at:  kuljoapps@gmail.com
+
+8.2. An optional and non-mandatory form of contact is by SMS or phone call to the Provider’s mobile number⁽²⁾:  +48 600 130 255
+
+8.3. The Provider reserves a maximum response time of 7 business days from the moment the User submits the report.
+
+8.4. A report concerning the Application should include at least the following information:
+
+Device operating system
+Device model (approximate)
+Brief description of the issue
+Date when the error occurred
+
+8.5. The Provider reserves the right to disregard reports that are illegible, incomplete, offensive, or unrelated to the functioning of the Application.
+
+
+9. Privacy and Data Protection
+
+9.1. The Application has been designed with respect for Users’ privacy and operates in a manner that minimizes the processing of personal data.
+
+9.2. After installation on a Device, the Application:
+
+9.2.1. Does not require the submission of any real personal data.
+
+9.2.2. Stores all Character-related data exclusively on the User’s Device.
+
+9.2.3. Does not perform any hidden profiling or behavioral analysis of Users.
+
+9.3. The Application requires Internet access only for the following purposes:
+
+9.3.1. Downloading essential required updates.
+
+9.3.2. Viewing and downloading a curated list of legal acts.
+
+9.3.3. Enabling communication between the User and the Provider.
+
+9.4. The only User data that may be transmitted to the Provider are those voluntarily submitted by the User in contact messages (via email or SMS).
+
+9.5. Personal data sent to the Provider in connection with error reports or suggestions for Application development should be limited to the minimum necessary for responding to the message.
+
+9.6. Any personal data received from the User will be used solely by the Provider for the purpose of responding to the inquiry and will be deleted within 30 days of the end of the communication with that User.
+
+9.7. In the event of changes to the Terms regarding the processing of personal data, Users will be notified 14 days in advance.
+
+9.8. The full Privacy Policy is included below and constitutes Annex No. 1 to these Terms.
+
+
+10. Liability
+
+10.1. The Provider maintains ongoing oversight of the technical performance of the Application and makes every effort to ensure its proper functioning.
+
+10.2. The Application serves as a supplementary tool for candidates preparing for the vehicle inspection technician exam. The Provider does not in any way guarantee that the exam will be passed.
+
+10.3. The Application is provided “as is”, with no guarantee of availability or sustained proper operation.
+
+10.4. The Provider shall not be held liable for, among other things:
+
+10.4.1. Substantive errors in the questions and answers contained in the Application.
+
+10.4.2. Outdated legal acts or legal bases referenced in the questions and answers.
+
+10.4.3. Failure to pass the theoretical or practical vehicle inspection technician exam.
+
+10.4.4. Services, applications, and online platforms provided by third parties.
+
+10.4.5. Damages and lost profits resulting from the User’s infringement of third-party rights.
+
+10.4.6. Limited availability of Application functions due to malfunctions, maintenance work, force majeure, or other reasons beyond the Provider’s control.
+
+10.4.7. Limitations or technical issues in the Device's operating systems that prevent Users from accessing some or all of the Application's features.
+
+10.5. The User uses the Application voluntarily and at their own risk.
+
+10.6. The limitation of liability set forth in these Terms does not apply to damages caused intentionally or through gross negligence on the part of the Provider.
+
+
+11. Termination of Use
+
+11.1. The User may discontinue use of the Application at any time, particularly in the following cases:
+
+11.1.1. The User does not accept these Terms or their amendments.
+
+11.1.2. The User did not accept the Terms upon first launching the Application.
+
+11.1.3. The Application does not meet the User’s expectations as an educational tool.
+
+11.2. Discontinuation of use requires uninstalling the Application from the Device.
+
+11.3. The Application has been designed so that the uninstallation process removes all Application-related data from the Device, including Character data and User progress.
+
+
+12. Licensing Provisions
+
+12.1. The Application constitutes the Provider’s original work in terms of the form and style of the source code as well as the content of the question and answer database. All rights to these elements are reserved.
+
+12.2. The Application’s source code utilizes third-party libraries and tools made available under various open-source licenses (including MIT, Apache 2.0, BSD). Each of these libraries remains the property of their respective authors, and their use is subject to the terms specified in the applicable licenses.
+
+12.3. A list of all external libraries used in the Application, along with the full text of their licenses, is available within the Application under the section: "Help" –> "Licenses" –> "View All Licenses".
+
+12.4. The User is entitled to use the Application in accordance with its intended purpose and within the scope of personal use permitted under copyright law.
+
+12.5. Commercial use, modification, or paid distribution of the Application in whole or significant parts is prohibited, except as allowed by applicable law or by the licenses of open-source components.
+
+12.6. The full text of the Application’s license is included in Annex No. 2 to these Terms.
+
+
+13. Voluntary Support for the Creator
+
+13.1. The Application is free of charge, and the Provider does not require the User to pay any fees for downloading, installing, launching, or using the Application (see: Section 7.).
+
+13.2. Any User who wishes to support the creator of the Application (being also: the Provider), may do so entirely voluntarily by donating any chosen amount via the services „Patronite.pl" or „BuyCoffee.to".
+
+13.3. Valid links to the creator’s profiles on the aforementioned platforms can be found within the Application, under: "Help" –> "More About Us" –> "Support the Creator".
+
+13.4. The Application does not actively encourage the User (e.g., through notifications, pop-ups, or repeated mentions) to make any financial contributions or other forms of donations to the Provider.
+
+13.5. The Provider does not conduct any form of organized public fundraising.
+
+13.6. Financial support is not required to use the Application, does not affect its functionality or availability, and does not constitute a part of the service agreement.
+
+
+14. Amendments to the Terms
+
+14.1. The Provider reserves the right to amend these Terms at any time and for any reason. Amendments to the Terms become effective upon their publication in the Application.
+
+14.2. Notice of any changes to the Terms will be made available at least 14 days prior to their implementation.
+
+14.3. Users will be notified of the amendments after the Application’s system process is restarted on a Device with an active Internet connection.
+
+14.4. Each User will have the opportunity to review the amended Terms via the appropriate function in the Application, including a summary of the most recent changes.
+
+14.5. If, after reviewing the amended Terms, the User does not accept their provisions, they may exercise their right to withdraw from the agreement.
+
+14.6. This shall mean the immediate discontinuation of the use of the Application by removing it from the Device (see: Section 11.).
+
+
+
+15. Final Provisions
+
+15.1. In matters not regulated by these Terms, the provisions of Polish law shall apply.
+
+15.2. The Provider reserves the right to introduce updates to the Application, the installation of which may be required for the User to continue using the Application.
+
+15.3. If it is determined that the User engages in activities prohibited by law or these Terms, violates principles of social conduct, or acts against the legitimate interests of the Provider — particularly by damaging the Provider’s reputation — the Provider may take all actions permitted by law, including restricting the User’s ability to use the Application.
+
+15.4. The Provider reserves the right to suspend the operation of the Application at any time and for any reason, as well as the right to modify, withdraw, or add new services provided through the Application.
+
+15.5. The invalidity of any provision of these Terms shall not affect the validity of the remaining provisions, in accordance with Article 58 § 3 of the Polish Civil Code.
+
+15.6. These Terms shall enter into force on June 27, 2025.
+
+
+
+
+
+Explanatory Notes:
+
+– Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation – GDPR).
+
+(2) – The cost of a call or SMS is borne by the User in accordance with their operator’s tariff plan.
+
+
+
+
+Annex No. 1
+to the Terms of Use of „Diagnosta EDU” 
+
+
+PRIVACY POLICY
+
+
+
+1. GENERAL PROVISIONS
+
+1.1. This Privacy Policy sets out the principles for the processing of personal data in connection with the use of the educational software Diagnosta EDU (hereinafter: the “Application”), in accordance with:
+
+Regulation (EU) 2016/679 of the European Parliament and of the Council (hereinafter: “GDPR”),
+The Polish Personal Data Protection Act of 10 May 2018,
+Other applicable provisions of Polish and EU law.
+
+1.2. The data controller is a private individual, Damian Kuliś, residing at Jarosława Dąbrowskiego 18/6, 02-561 Warsaw, Poland, operating on a non-registered basis under the unregistered name KULJO APPS (hereinafter: the “Controller”). The Controller may be contacted directly as follows:
+
+E-mail:  kuljoapps@gmail.com
+
+Phone*:  +48 600 130 255
+
+1.3. The Application is entirely free of charge, and the Controller does not conduct any commercial business activity.
+
+* – Phone or SMS contact is optional and is provided solely for the convenience of Users. The Controller does not promote this form of communication and is not responsible for any call or message charges incurred by the User in accordance with their operator’s tariff plan.
+
+
+2. SCOPE AND LEGAL BASIS OF DATA PROCESSING
+
+2.1. The Application does not collect or process Users’ personal data automatically, except for data voluntarily provided in contact inquiries.
+
+2.2. Processed data:
+
+2.2.1. Contact data – only in the case of inquiries submitted by the User:
+
+E-mail address,
+Phone number,
+User’s personal data – not required by the Controller but may be provided voluntarily by the User.
+
+2.2.2. Technical data – solely for the purpose of diagnosing technical issues:
+
+Operating system of the Device,
+Device model (approximate or exact).
+
+2.3. Data related to the “Character” (the fictional user account within the Application) is stored exclusively locally on the Device, in the Application’s cache memory, without being transmitted to the Controller.
+
+2.4. The Application does not knowingly collect data from Users under the age of 16.
+
+2.5. In cases of inquiries requiring personal data (e.g., e-mail, phone number), Users under the age of 16 should obtain consent for contact from a parent or legal guardian.
+
+2.6.  Legal basis for processing:
+
+Art. 6(1)(b) GDPR (performance of a contract) – for responding to contact inquiries,
+Art. 6(1)(f) GDPR (legitimate interest of the Controller) – for improving Application functionality and error analysis,
+Art. 8(1) GDPR (conditions for child consent) – applicable cases of children using the Application.
+
+
+3. PURPOSES OF DATA PROCESSING
+
+3.1. Data are processed solely for the following purposes:
+
+Responding to technical inquiries, questions, and suggestions regarding the Application,
+Improving the performance of the Application,
+Ensuring User security.
+
+3.2. Retention periods:
+
+Contact data – up to 30 days from the end of communication,
+Technical data (e.g., error report statistics) – up to 2 years from receipt,
+Substantive content of inquiries (e.g., ideas for new features) – up to 5 lat from receipt.
+
+3.3. All data are stored no longer than necessary to achieve the purposes for which they were collected, in accordance with section 3.2.
+
+3.4. All data retained longer than 30 days after the end of communication with the User will be processed exclusively after anonymization.
+
+
+4. DATA SECURITY
+
+4.1. Data related to the “Character,” i.e., the User’s fictional account:
+
+Are encrypted according to the risk level (AES-256 algorithm) and stored exclusively locally on the User’s Device,
+
+Are not transferred to external servers,
+The Controller has no access to these data.
+
+4.2. Users’ contact data provided to the Controller:
+
+4.2.1. Via e-mail:
+
+Are stored in the Google Gmail email system with access restricted solely to the Controller,
+Access to the mailbox is protected by multi-factor authentication.
+
+4.2.2. Via SMS/calls to the provided phone number:
+
+Are stored in the local memory of a smartphone owned exclusively by the Controller,
+The device has the latest security updates provided by the manufacturer,
+Access to the device is protected by two-factor authentication, including the Controller’s personal biometric verification.
+
+4.2.3. Should be limited to the minimum necessary to enable proper contact between the Controller and the User.
+
+4.3. Technical measures employed to ensure data security:
+
+Regular password changes for email client and Controller’s devices,
+Ongoing software updates of devices storing data,
+Ensuring no unauthorized third-party access to contact data,
+Anonymization of all data after 30 days from the end of communication,
+Monitoring of unauthorized access attempts to data or devices.
+
+4.4. n the event of a personal data breach, the Controller shall take actions in accordance with Articles 33–34 of the GDPR, including notifying Users via available communication channels and, if required, the Personal Data Protection Office (PUODO).
+
+
+5. USERS’ RIGHTS
+
+5.1. Providing contact data by the User is entirely voluntary but may be necessary to respond to inquiries or resolve reported issues.
+
+5.2. The User has the right to:
+
+Access their data (Art. 15 GDPR),
+Rectify or erase data (Arts. 16–17 GDPR),
+Restrict processing (Art. 18 GDPR),
+Data portability (Art. 20 GDPR) – where applicable,
+Object to processing (Art. 21 GDPR),
+Withdraw consent (Art. 13 GDPR),
+Lodge a complaint with the President of the Personal Data Protection Office (PUODO).
+
+5.3. Requests should be sent to the following e-mail address:  kuljoapps@gmail.com
+
+5.4. The Controller undertakes to respond promptly to all valid requests from Users concerning their rights under the GDPR, observing a maximum response time of 30 days.
+
+
+6. COOKIES AND TRACKING TECHNOLOGIES
+
+6.1. The Application does not use cookie technologies during its operation.
+
+6.2. Activity tracking mechanisms applied within the Application operate exclusively locally on the Device and do not transmit collected data to external servers, particularly not to the Controller.
+
+6.3. Required Internet access is used solely for the purposes of:
+
+Installing the Application on the Device,
+Downloading updates,
+Browsing and downloading a selected list of legal acts,
+Communication between the Controller and the User, if the User chooses this form.
+
+6.4. Users’ personal data are not transferred by the Controller outside the European Economic Area (EEA), except in cases resulting from the use of external e-mail service providers (e.g., Google LLC). In such cases, data may be transferred to third countries (e.g., the USA), but solely based on appropriate legal mechanisms ensuring data protection, pursuant to Art. 46 GDPR, including the standard data protection clauses approved by the European Commission.
+
+
+7. FINAL PROVISIONS
+
+7.1. The Controller reserves the right to update the Privacy Policy. Users will be notified 14 days in advance by:
+
+A message in the Application, which cannot be overlooked by the User upon the next restart of the Application’s system process on a Device connected to the Internet,
+An e-mail message (only if the address was provided in the inquiry).
+
+7.2. If the User does not accept the changes, they should uninstall the Application from their Device.
+
+7.3. This Privacy Policy shall enter into force on June 27, 2025.
+
+
+
+Contact for Data Protection Matters:
+ Damian Kuliś 18/6 Jarosława Dąbrowskiego Street, 02-561 Warsaw, Poland E-mail: kuljoapps@gmail.com
+Phone: +48 600 130 255
+
+
+
+Annex No. 2
+to the Terms of Use of „Diagnosta EDU”
+
+
+END USER LICENSE AGREEMENT (EULA)
+
+
+
+1. GENERAL PROVISIONS
+
+1.1. This End User License Agreement (hereinafter: the “License”) constitutes a legally binding agreement between the User and the Creator (being also: the Provider) of the Diagnosta EDU educational software (hereinafter: the “Application”).
+
+1.2. The Creator of the Application is a private individual – Damian Kuliś, who operates on a non-registered basis solely in his own name under the unregistered brand KULJO APPS, without conducting business activity within the meaning of the Polish Entrepreneurs’ Law. At the same time, the Creator is also the Provider of the Application, i.e., the entity responsible for its distribution and maintenance.
+
+1.3. By accepting this License, the User confirms that they have read its content, understood the terms of use of the Application, and agree to comply with them.
+
+1.4. The License comes into effect upon installation and first launch of the Application on the Device, as well as marking the separate checkbox before the first use of the Application.
+
+
+2. SCOPE OF THE GRANTED LICENSE
+
+2.1. The Provider grants the User a non-exclusive, non-transferable, non-assignable, and non-commercial license to use the Application solely under the terms specified in the Terms of Use and this document.
+
+2.2. The License covers only the use of the Application in the manner intended by its functionality and described in the Terms of Use.
+
+2.3. The License does not include the right to:
+
+2.3.1. Modify, decompile, disassemble, or extract the source code of the Application, except for the User’s rights arising under Article 75 of the Act on Copyright and Related Rights, in particular:
+
+The right to decompile for interoperability purposes (Art. 75(2)(3)),
+The right to examine the program’s functionality (Art. 75(2)(2)),
+The right to correct errors if necessary for using the program (Art. 75(1)).
+
+2.3.2. Commercially exploit the Application beyond permitted personal use.
+
+2.3.3. Redistribute, rent, sublicense, or make the Application available to third parties, except as required by mandatory legal provisions.
+
+
+3. COPYRIGHT AND INTELLECTUAL PROPERTY
+
+3.1. The Application is protected by copyright law. All rights to the Application and its components, including the question and answer database and source code, belong exclusively to the Creator.
+
+3.2. The Application uses third-party libraries and components made available under open-source licenses (including MIT, Apache 2.0, BSD). The full list of these components can be found within the Application under the section: "Help" –> "Licenses" –> "View All Licenses".
+
+3.3. Copyright to individual open-source components remains with their respective authors, and their use is governed by the terms specified in the applicable licenses.
+
+3.4. The Provider declares that they do not redistribute the mentioned open-source libraries and components but use them solely as tools or binary dependencies to create the final Application file.
+
+3.5. No source code of third-party components has been modified by the Creator.
+
+
+4. LIMITATION OF LIABILITY
+
+4.1. The Application is provided on an „as-is” basis, without any express or implied warranty, including but not limited to fitness for a particular purpose or conformity with the User’s expectations.
+
+4.2. The Provider does not guarantee that the Application will be free from errors or interruptions, nor that its content (e.g., the question database, legal bases) will always be up-to-date and compliant with applicable law.
+
+4.3. The User uses the Application at their own risk. The Provider shall not be liable for any direct, indirect, incidental, or consequential damages arising from the User’s use of the Application.
+
+4.4. Detailed terms regarding limitation of liability are specified in Chapter 10 of the Terms of Use, of which this License is an integral part.
+
+4.5. The limitation of liability set forth in this License does not apply to damages caused intentionally or as a result of gross negligence by the Provider.
+
+
+5. USER OBLIGATIONS
+
+5.1. The User agrees to use the Application in compliance with applicable laws, principles of social conduct, as well as the provisions of this License and the Terms of Use.
+
+5.2. The use of the Application for any purposes inconsistent with its educational nature is strictly prohibited, particularly for commercial purposes.
+
+
+6. TERM OF THE LICENSE
+
+6.1. The License is granted for an indefinite period, unless:
+
+the User removes the Application from their Device,
+the Provider discontinues the distribution of the Application,
+the User breaches any material provisions of this License.
+
+6.2. In the event of a material breach of the License by the User (in particular: commercial use or making the Application available to third parties for a fee), the Provider may terminate the License with immediate effect.
+
+6.3. Using the available communication channels, the Provider shall inform the User of the reason for the termination and allow the User to remedy the breach in advance, if such an action is justified.
+
+6.4. Upon termination of the License, the User is obliged to immediately cease using the Application and to delete it from their Device.
+
+
+7. LICENSE VIOLATIONS AND SANCTIONS
+
+7.1. A breach by the User of any material provisions of this License—particularly actions such as:
+
+Unauthorized paid distribution of the Application,
+Illegal modification of the Application’s source code,
+Commercial use of the Application beyond permitted personal use,
+Decompilation of the code and sharing it with third parties in violation of the law;
+
+may result in the Provider taking legal action, including but not limited to:
+
+Immediate termination of the License,
+Pursuit of civil claims by the Provider,
+Reporting of gross violations to the appropriate law enforcement authorities.
+
+7.2. In the event of a violation of rights related to open-source components used within the Application, liability shall rest solely with the User who committed the infringement.
+
+
+8. FINAL PROVISIONS
+
+8.1. This License is governed by the laws of the Republic of Poland. In matters not regulated herein, the relevant provisions of the Act on Copyright and Related Rights and the Civil Code shall apply.
+
+8.2. If any provision of this License is found to be invalid or unenforceable, the validity of the remaining provisions shall not be affected.
+
+
+
+
+Annex No. 3
+to the Terms of Use of „Diagnosta EDU”
+
+
+TECHNICAL REQUIREMENTS
+
+
+
+GENERAL PROVISIONS
+
+1.1. This document defines the minimum and recommended technical requirements necessary for the proper functioning of the educational program Diagnosta EDU (hereinafter: the “Application”) on various operating systems and User Devices.
+
+1.2. These requirements may change following updates to the Application. The User will be notified of such changes in accordance with Chapter 14 of the Terms of Use.
+
+
+2. MINIMUM TECHNICAL REQUIREMENTS
+
+2.1. Smartphones and tablets:
+
+2.1.1. Android:
+
+Android operating system version 8.1 (SDK 27) or later,
+ARM64 processor architecture,
+Minimum 2 GB of RAM,
+At least 300 MB of free device storage,
+Display with a diagonal of 4.7” or larger, minimum resolution of 360 x 640 pixels,
+Support for OpenGL ES 2.0 or higher.
+
+2.1.2. iOS (Apple):
+
+iOS operating system version 12.0 or later,
+Smartphone: iPhone 6s or newer,
+Tablet: iPad (5th generation) or newer,
+Minimum 2 GB of RAM,
+At least 300 MB of free device storage,
+Display with a diagonal of 4.7” or larger.
+
+2.2. Desktop and laptop computers:
+
+2.2.1. Windows:
+
+Windows 10 (64-bit) or newer,
+x64 processor with SSE4.2 support,
+Minimum 4 GB of RAM,
+At least 400 MB of free disk space,
+Graphics card supporting DirectX 9 or OpenGL 2.0,
+Minimum screen resolution: 1366 x 768 pixels.
+
+2.2.2. macOS (Apple):
+
+macOS version 10.13 (High Sierra) or later,
+Intel Core i5 (2012 or newer) or Apple M1 processor,
+Minimum 4 GB of RAM,
+At least 400 MB of free disk space,
+Minimum screen resolution: 1366 x 768 pixels.
+
+2.2.3. Linux:
+
+Linux distribution with kernel version 5.0 or later,
+glibc version 2.28 or later,
+GNOME, KDE, or Xfce desktop environment,
+x64 processor with SSE4.2 support,
+Minimum 4 GB of RAM,
+At least 400 MB of free disk space,
+Support for OpenGL 2.0 or higher,
+The Application works only on Debian/Ubuntu-based distributions (e.g., Ubuntu 20.04+),
+Minimum screen resolution: 1366 x 768 pixels.
+
+
+3. RECOMMENDED TECHNICAL REQUIREMENTS
+
+3.1. Smartphones and tablets:
+
+3.1.1. Android:
+
+Android operating system version 10 or later,
+ARM64 processor architecture (e.g., Snapdragon 665 or newer),
+Minimum 4 GB of RAM,
+At least 500 MB of free device storage,
+Display with a diagonal of 5.5” or larger, minimum resolution of 480 x 720 pixels,
+Support for OpenGL ES 3.0 or higher.
+
+3.1.2. iOS (Apple):
+
+iOS operating system version 15 or later,
+Smartphone: iPhone 8 or newer,
+Tablet: iPad (6th generation) or newer,
+Minimum 4 GB of RAM,
+At least 500 MB of free device storage,
+Display with a diagonal of 5.4” or larger.
+
+3.2. Desktop and laptop computers:
+
+3.2.1. Windows:
+
+Windows 11 (64-bit),
+Intel i5 (8th generation) or AMD Ryzen 5 processor or newer,
+Minimum 8 GB of RAM,
+At least 500 MB of free disk space,
+Graphics card supporting DirectX 11 or higher,
+Full HD display (1920 x 1080) or higher.
+
+3.2.2. macOS (Apple):
+
+macOS version 12 (Monterey) or later,
+Apple M1 processor or newer (or Intel i5 2015+),
+Minimum 8 GB of RAM,
+At least 500 MB of free disk space,
+Retina display 13” or larger.
+
+3.2.3. Linux:
+
+Linux distribution based on Ubuntu 22.04 LTS or later,
+Linux kernel version 5.15 or later,
+glibc version 2.31 or later,
+GNOME 42+, KDE Plasma 5.25+, or Xfce 4.18+ desktop environment,
+x64 processor with SSE4.2 support (Intel i5 / AMD Ryzen),
+Minimum 8 GB of RAM,
+At least 500 MB of free disk space,
+Support for OpenGL 3.0 or higher,
+Full HD display (1920 x 1080) or higher.
+
+
+4. ADDITIONAL ENVIRONMENTAL DEPENDENCIES
+
+4.1. The Application requires Internet access solely for the purposes of:
+
+Downloading critical mandatory updates,
+Viewing and downloading a selected list of legal acts,
+Enabling communication between the User and the Provider.
+
+4.2. To download the Application onto a Device, an active user account is required in one of the following services, depending on the Device’s operating system:
+
+Android – Google Play Store,
+iOS – App Store,
+macOS – App Store,
+Windows – Microsoft Store,
+Linux – Flatpak platform.
+
+
+5. SYSTEM PERMISSIONS
+
+5.1. Depending on the operating system and the specific Device model, the Application requires the following permissions:
+
+5.1.1. Internet access – mandatory; required to download and install the Application, as well as during its use (see: Section 9.3. of the Terms of Use).
+
+5.1.2. Local notifications – optional, if the User wishes to receive study reminders for the exam.
+
+5.1.3. Local storage (Application file read and write only) – mandatory; most Devices do not require this permission to be granted separately, as default consent to application access to internal storage is assumed.
+
+5.2. The functionality of downloading legal acts from the selected list within the Application may only be available after granting the necessary system permissions to third-party services, such as a web browser or a file download manager.
+
+
+6. FINAL PROVISIONS
+
+6.1. The Provider does not guarantee the proper functioning of the Application on Devices that have been modified (e.g., rooted, jailbroken, custom firmware), nor on operating systems that are unsupported (e.g., beta or test versions).
+
+6.2. The Application has been tested by the Provider for proper operation on devices from the following brands: Apple, Samsung, OnePlus, and Google Pixel. During testing on the latest models of these devices, no operational errors of the Application were identified.
