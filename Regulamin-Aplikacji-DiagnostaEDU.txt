@@ -1,6 +1,5 @@
 REGULAMIN
 
-
 Regulamin korzystania z programu edukacyjnego Diagnosta EDU
 
 
@@ -15,6 +14,7 @@ Regulamin korzystania z programu edukacyjnego Diagnosta EDU
 1.4. Administratorem danych osobowych oraz podmiotem odpowiedzialnym za udostępnienie i obsługę Aplikacji jest osoba fizyczna – Damian Kuliś, zamieszkały przy ul. Jarosława Dąbrowskiego 18/6, 02-561 Warszawa.
 
 1.5. Damian Kuliś działa nierejestrowo, wyłącznie we własnym imieniu, pod niezarejestrowaną nazwą KULJO APPS, nie prowadząc działalności gospodarczej w rozumieniu przepisów ustawy Prawo przedsiębiorców (Dz.U. 2018 poz. 646).
+
 
 
 2. Definicje
@@ -32,6 +32,7 @@ Regulamin korzystania z programu edukacyjnego Diagnosta EDU
 2.1.5. Urządzenie – elektroniczne urządzenie końcowe należące do Użytkownika, umożliwiające instalację i korzystanie z Aplikacji, w szczególności: smartfon, tablet, komputer stacjonarny lub laptop.
 
 2.1.6. Postać – fikcyjne konto użytkownika, tworzone i zapisywane wyłącznie lokalnie na Urządzeniu należącym do Użytkownika.
+
 
 
 3. Wymagania techniczne
@@ -53,21 +54,23 @@ Regulamin korzystania z programu edukacyjnego Diagnosta EDU
 3.6. Pełna treść wymagań technicznych dla wszystkich systemów operacyjnych Urządzeń, na których może być zainstalowana Aplikacja, znajduje się w Załączniku nr 3 do niniejszego Regulaminu.
 
 
+
 4. Dystrybucja i instalacja
 
 4.1. Dostawca udostępnia Aplikację wyłącznie za pośrednictwem autoryzowanych i oficjalnych kanałów dystrybucji natywnych dla danego systemu operacyjnego Urządzenia. Są to wyłącznie następujące platformy: 
 
-Android – sklep Google Play,
-iOS – sklep App Store,
-macOS – sklep App Store,
-Windows – sklep Microsoft Store,
-Linux – platforma Flatpak.
+* Android – sklep Google Play,
+* iOS – sklep App Store,
+* macOS – sklep App Store,
+* Windows – sklep Microsoft Store,
+* Linux – platforma Flatpak.
 
 4.2. Użytkownicy ponoszą wszelkie koszty transmisji danych związane z pobraniem, instalacją, uruchomieniem i korzystaniem z Aplikacji, zgodnie z warunkami umów zawartych z operatorami telekomunikacyjnymi lub innymi dostawcami Internetu.
 
 4.3. Dostawca nie ponosi odpowiedzialności za wysokość opłat naliczanych przez operatorów lub dostawców Internetu z tytułu transmisji danych niezbędnej do korzystania z Aplikacji.
 
 4.4. Po zainstalowaniu i pierwszym uruchomieniu Aplikacji Użytkownik jest zobowiązany do zapoznania się z treścią niniejszego Regulaminu oraz jego akceptacji. Brak akceptacji uniemożliwia korzystanie z funkcjonalności Aplikacji.
+
 
 
 5. Sposób działania
@@ -99,6 +102,7 @@ Linux – platforma Flatpak.
 5.4. Dostawca zastrzega sobie prawo do wprowadzania zmian w funkcjonalności Aplikacji, w tym dodawania, modyfikowania lub usuwania wybranych funkcji.
 
 5.5. Wprowadzone zmiany mogą wpływać na sposób działania Aplikacji, jednak nie będą naruszać jej podstawowego charakteru jako programu edukacyjnego.
+
 
 
 6. Postać – konto użytkownika
@@ -138,6 +142,7 @@ Linux – platforma Flatpak.
 6.3. Wizerunki osób wykorzystywane do tworzenia Postaci w Aplikacji nie przedstawiają prawdziwych osób i zostały wygenerowane przy użyciu narzędzi sztucznej inteligencji.
 
 
+
 7. Bezpłatny charakter aplikacji
 
 7.1. Aplikacja Diagnosta EDU jest całkowicie bezpłatna i nie zawiera żadnych subskrypcji ani mikropłatności.
@@ -145,6 +150,7 @@ Linux – platforma Flatpak.
 7.2. Wszystkie funkcje są dostępne dla Użytkowników bez konieczności uiszczania opłat.
 
 7.3. Aplikacja jest i pozostaje całkowicie bezpłatna dla Użytkowników tak długo, jak jest udostępniana przez obecnego Dostawcę.
+
 
 
 8. Kontakt i pomoc techniczna
@@ -157,12 +163,13 @@ Linux – platforma Flatpak.
 
 8.4. Zgłoszenie dotyczące Aplikacji powinno zawierać co najmniej poniższy zestaw danych:
 
-System operacyjny Urządzenia
-Model Urządzenia (przybliżony)
-Krótki opis problemu
-Data wystąpienia błędu
+* System operacyjny Urządzenia,
+* Model Urządzenia (przybliżony),
+* Krótki opis problemu,
+* Data wystąpienia błędu.
 
 8.5. Dostawca zastrzega sobie prawo do nieuwzględnienia zgłoszeń, które są nieczytelne, niepełne, zawierają treści obraźliwe lub nie dotyczą działania Aplikacji.
+
 
 
 9. Prywatność i ochrona danych
@@ -196,6 +203,7 @@ Data wystąpienia błędu
 9.8. Pełna treść Polityki Prywatności znajduje się poniżej i stanowi Załącznik nr 1 do niniejszego Regulaminu.
 
 
+
 10. Odpowiedzialność
 
 10.1. Dostawca sprawuje bieżący nadzór nad technicznym funkcjonowaniem Aplikacji i dokłada starań, aby działała poprawnie.
@@ -225,6 +233,7 @@ Data wystąpienia błędu
 10.6. Ograniczenie odpowiedzialności określone w niniejszym Regulaminie nie dotyczy szkód wyrządzonych umyślnie ani w wyniku rażącego niedbalstwa Dostawcy.
 
 
+
 11. Zakończenie użytkowania
 
 11.1. Użytkownik może w dowolnym momencie zaprzestać korzystania z Aplikacji, w szczególności wówczas, gdy:
@@ -238,6 +247,7 @@ Data wystąpienia błędu
 11.2. Zaprzestanie korzystania z Aplikacji wymaga jej usunięcia z Urządzenia.
 
 11.3. Aplikacja została zaprojektowana tak, aby proces jej deinstalacji usuwał z Urządzenia wszystkie dane dotyczące Aplikacji, w szczególności dane Postaci i postępy Użytkownika.
+
 
 
 12. Postanowienia licencyjne
@@ -255,6 +265,7 @@ Data wystąpienia błędu
 12.6. Pełna treść licencji Aplikacji, znajduje się w Załączniku nr 2 do niniejszego Regulaminu.
 
 
+
 13. Dobrowolne wsparcie twórcy
 
 13.1. Aplikacja jest bezpłatna, a Dostawca nie wymaga od Użytkownika uiszczania żadnych opłat za jej pobranie, instalację, uruchomienie oraz korzystanie z Aplikacji (patrz: Rozdział 7.).
@@ -268,6 +279,7 @@ Data wystąpienia błędu
 13.5. Dostawca nie prowadzi jakiejkolwiek formy zorganizowanej zbiórki publicznej.
 
 13.6. Wsparcie finansowe nie jest wymagane do korzystania z Aplikacji, nie wpływa na jej funkcjonalność ani dostępność oraz nie stanowi elementu umowy o świadczenie usług.
+
 
 
 14. Zmiany w regulaminie
@@ -285,6 +297,7 @@ Data wystąpienia błędu
 14.6. Za powyższe rozumie się niezwłoczne zaprzestanie korzystania z Aplikacji poprzez jej usunięcie z Urządzenia (patrz: Rozdział 11.).
 
 
+
 15. Postanowienia końcowe
 
 15.1. W sprawach nieuregulowanych niniejszym Regulaminem stosuje się przepisy prawa polskiego.
@@ -298,8 +311,6 @@ Data wystąpienia błędu
 15.5. Nieważność któregokolwiek z postanowień niniejszego Regulaminu nie wpływa na ważność pozostałych jego zapisów, zgodnie z art. 58 § 3 ustawy – Kodeks cywilny.
 
 15.6. Regulamin wchodzi w życie z dniem 27 czerwca 2025 roku.
-
-
 
 
 
@@ -327,9 +338,9 @@ POLITYKA PRYWATNOŚCI
 
 1.1. Niniejsza Polityka Prywatności określa zasady przetwarzania danych osobowych w związku z korzystaniem z programu edukacyjnego Diagnosta EDU (dalej: „Aplikacja”), zgodnie z:
 
-Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 (dalej: „RODO”),
-Ustawą o ochronie danych osobowych z dnia 10 maja 2018 r.,
-Innymi obowiązującymi przepisami prawa polskiego i UE.
+* Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 (dalej: „RODO”),
+* Ustawą o ochronie danych osobowych z dnia 10 maja 2018 r.,
+* Innymi obowiązującymi przepisami prawa polskiego i UE.
 
 1.2. Administratorem danych jest osoba fizyczna Damian Kuliś, zamieszkały przy ul. Jarosława Dąbrowskiego 18/6, 02-561 Warszawa, działający nierejestrowo pod niezarejestrowaną nazwą KULJO APPS (dalej: „Administrator”). Kontakt bezpośredni do Administratora:
 
@@ -342,6 +353,7 @@ Telefon*:  +48 600 130 255
 * – Kontakt telefoniczny/SMS jest opcjonalny i służy wyłącznie wygodzie Użytkowników. Administrator nie nalega na tę formę komunikacji i nie ponosi odpowiedzialności za koszty połączeń zgodne z taryfą operatora.
 
 
+
 2. ZAKRES I PODSTAWA PRZETWARZANIA DANYCH
 
 2.1. Aplikacja nie zbiera ani nie przetwarza danych osobowych Użytkowników w sposób automatyczny, z wyjątkiem danych podanych dobrowolnie w zgłoszeniach kontaktowych.
@@ -350,14 +362,14 @@ Telefon*:  +48 600 130 255
 
 2.2.1. Dane kontaktowe – tylko w przypadku zgłoszeń wysłanych przez Użytkownika:
 
-Adres e-mail,
-Numer telefonu,
-Dane personalne Użytkownika - nie są wymagane przez Administratora, ale może on je otrzymać z własnej woli Użytkownika.
+* Adres e-mail,
+* Numer telefonu,
+* Dane personalne Użytkownika - nie są wymagane przez Administratora, ale może on je otrzymać z własnej woli Użytkownika.
 
 2.2.2. Dane techniczne – wyłącznie w celu diagnozy problemów technicznych:
 
-System operacyjny Urządzenia,
-Model Urządzenia (przybliżony lub pełny).
+* System operacyjny Urządzenia,
+* Model Urządzenia (przybliżony lub pełny).
 
 2.3. Dane związane z „Postacią” (fikcyjnym kontem w Aplikacji) są przechowywane wyłącznie lokalnie na Urządzeniu, w pamięci podręcznej Aplikacji, bez przesyłania do Administratora.
 
@@ -367,81 +379,85 @@ Model Urządzenia (przybliżony lub pełny).
 
 2.6.  Podstawa prawna przetwarzania:
 
-Art. 6 ust. 1 lit. b RODO (konieczność wykonania usługi) – dla odpowiedzi na zgłoszenia kontaktowe,
-Art. 6 ust. 1 lit. f RODO (uzasadniony interes Administratora) – dla poprawy funkcjonalności Aplikacji i analizy błędów,
-Art. 8 ust. 1 RODO (warunki wyrażenia zgody przez dziecko) – możliwe przypadki korzystania z Aplikacji przez dzieci.
+* Art. 6 ust. 1 lit. b RODO (konieczność wykonania usługi) – dla odpowiedzi na zgłoszenia kontaktowe,
+* Art. 6 ust. 1 lit. f RODO (uzasadniony interes Administratora) – dla poprawy funkcjonalności Aplikacji i analizy błędów,
+* Art. 8 ust. 1 RODO (warunki wyrażenia zgody przez dziecko) – możliwe przypadki korzystania z Aplikacji przez dzieci.
+
 
 
 3. CELE PRZETWARZANIA DANYCH
 
 3.1. Dane przetwarzane są wyłącznie w celu:
 
-Udzielenia odpowiedzi na zgłoszenia techniczne, pytania i pomysły dotyczące Aplikacji,
-Poprawy działania Aplikacji,
-Zapewnienia bezpieczeństwa Użytkownika.
+* Udzielenia odpowiedzi na zgłoszenia techniczne, pytania i pomysły dotyczące Aplikacji,
+* Poprawy działania Aplikacji,
+* Zapewnienia bezpieczeństwa Użytkownika.
 
 3.2. Okres przechowywania:
 
-Dane kontaktowe – do 30 dni od zakończenia komunikacji,
-Dane techniczne (np. statystyki zgłoszonych błędów) – do 2 lat od otrzymania,
-Treść merytoryczna zgłoszeń (np. pomysły na nowe funkcje) – do 5 lat od otrzymania.
+* Dane kontaktowe – do 30 dni od zakończenia komunikacji,
+* Dane techniczne (np. statystyki zgłoszonych błędów) – do 2 lat od otrzymania,
+* Treść merytoryczna zgłoszeń (np. pomysły na nowe funkcje) – do 5 lat od otrzymania.
 
 3.3. Wszystkie dane są przechowywane nie dłużej niż jest to niezbędne do realizacji celów, dla których zostały zebrane, z zachowaniem pkt. 3.2.
 
 3.4. Wszystkie otrzymane dane, które będą przechowywane dłużej niż 30 dni od zakończenia komunikacji z Użytkownikiem, będą przetwarzane wyłącznie po procesie anonimizacji.
 
 
+
 4. BEZPIECZEŃSTWO DANYCH
 
 4.1. Dane „Postaci”, czyli fikcyjnego konta Użytkownika:
 
-Są szyfrowane odpowiednio do ryzyka (algorytm AES-256) i przechowywane wyłącznie lokalnie na Urządzeniu Użytkownika,
-Nie podlegają migracji na serwery zewnętrzne,
-Administrator nie ma do nich dostępu.
+* Są szyfrowane odpowiednio do ryzyka (algorytm AES-256) i przechowywane wyłącznie lokalnie na Urządzeniu Użytkownika,
+* Nie podlegają migracji na serwery zewnętrzne,
+* Administrator nie ma do nich dostępu.
 
 4.2. Dane kontaktowe Użytkowników przekazane Administratorowi:
 
 4.2.1. Za pomocą poczty e-mail:
 
-Przechowywane są w systemie poczty elektronicznej Google Gmail z dostępem ograniczonym wyłącznie do Administratora,
-Dostęp do skrzynki pocztowej chroniony jest uwierzytelnianiem wieloskładnikowym.
+* Przechowywane są w systemie poczty elektronicznej Google Gmail z dostępem ograniczonym wyłącznie do Administratora,
+* Dostęp do skrzynki pocztowej chroniony jest uwierzytelnianiem wieloskładnikowym.
 
 4.2.2. Za pomocą SMS/połączenia na wskazany numer telefonu:
 
-Przechowywane są w pamięci lokalnej urządzenia typu smartfon należącego wyłącznie do Administratora,
-Urządzenie posiada najnowsze aktualizacje producenta dotyczące zabezpieczeń,
-Dostęp do urządzenia chroniony jest uwierzytelnianiem dwuskładnikowym, w tym osobistą biometrią Administratora.
+* Przechowywane są w pamięci lokalnej urządzenia typu smartfon należącego wyłącznie do Administratora,
+* Urządzenie posiada najnowsze aktualizacje producenta dotyczące zabezpieczeń,
+* Dostęp do urządzenia chroniony jest uwierzytelnianiem dwuskładnikowym, w tym osobistą biometrią Administratora.
 
 4.2.3. Powinny ograniczać się do niezbędnego minimum, umożliwiającego prawidłowy kontakt pomiędzy Administratorem i Użytkownikiem.
 
 4.3. Środki techniczne stosowane w celu zapewnienia bezpieczeństwa danych:
 
-Regularna zmiana haseł dostępu do klienta poczty oraz urządzeń Administratora,
-Bieżące aktualizacje oprogramowania urządzeń przechowujących dane,
-Zapewnianie braku dostępu osób postronnych do danych kontaktowych,
-Anonimizacja wszystkich danych po upływie 30 dni od zakończenia komunikacji,
-Monitorowanie prób nieautoryzowanego dostępu do danych lub urządzeń.
+* Regularna zmiana haseł dostępu do klienta poczty oraz urządzeń Administratora,
+* Bieżące aktualizacje oprogramowania urządzeń przechowujących dane,
+* Zapewnianie braku dostępu osób postronnych do danych kontaktowych,
+* Anonimizacja wszystkich danych po upływie 30 dni od zakończenia komunikacji,
+* Monitorowanie prób nieautoryzowanego dostępu do danych lub urządzeń.
 
 4.4. W przypadku naruszenia ochrony danych osobowych Administrator podejmie działania zgodnie z art. 33-34 RODO, w tym powiadomi Użytkowników za pomocą dostępnych mu kanałów komunikacji, a także PUODO, jeśli będzie to wymagane.
 
 
+
 5. PRAWA UŻYTKOWNIKÓW
 
-5.1. Podanie danych kontaktowych przez Użytkownika jest całkowicie dobrowolne, ale może być niezbędne do udzielenia odpowiedzi lub rozwiązania zgłoszonego problemu
+5.1. Podanie danych kontaktowych przez Użytkownika jest całkowicie dobrowolne, ale może być niezbędne do udzielenia odpowiedzi lub rozwiązania zgłoszonego problemu.
 
 5.2. Użytkownik ma prawo do:
 
-Dostępu do swoich danych (art. 15 RODO),
-Sprostowania lub usunięcia danych (art. 16-17 RODO),
-Ograniczenia przetwarzania (art. 18 RODO),
-Przenoszenia danych (art. 20 RODO) – o ile ma to zastosowanie,
-Wniesienia sprzeciwu (art. 21 RODO),
-Cofnięcia zgody (art. 13 RODO),
-Wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych (PUODO).
+* Dostępu do swoich danych (art. 15 RODO),
+* Sprostowania lub usunięcia danych (art. 16-17 RODO),
+* Ograniczenia przetwarzania (art. 18 RODO),
+* Przenoszenia danych (art. 20 RODO) – o ile ma to zastosowanie,
+* Wniesienia sprzeciwu (art. 21 RODO),
+* Cofnięcia zgody (art. 13 RODO),
+* Wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych (PUODO).
 
 5.3. Żądania należy kierować na adres e-mail:  kuljoapps@gmail.com
 
 5.4. Administrator zobowiązuje się niezwłocznie odpowiadać na wszystkie prawidłowo złożone żądania Użytkowników dotyczące ich praw wynikających z RODO, z zachowaniem maksymalnego 30-dniowego czasu na odpowiedź.
+
 
 
 6. PLIKI COOKIES I TECHNOLOGIE ŚLEDZĄCE
@@ -452,12 +468,13 @@ Wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych (PUODO).
 
 6.3. Wymagany dostęp do Internetu służy wyłącznie do:
 
-Instalacji Aplikacji na Urządzeniu,
-Pobierania aktualizacji,
-Przeglądania i pobierania wyselekcjonowanej listy aktów prawnych,
-Kontaktu pomiędzy Administratorem a Użytkownikiem, jeśli ten wybierze taką formę.
+* Instalacji Aplikacji na Urządzeniu,
+* Pobierania aktualizacji,
+* Przeglądania i pobierania wyselekcjonowanej listy aktów prawnych,
+* Kontaktu pomiędzy Administratorem a Użytkownikiem, jeśli ten wybierze taką formę.
 
 6.4. Dane osobowe Użytkowników nie są przekazywane przez Administratora poza Europejski Obszar Gospodarczy (EOG), z wyjątkiem sytuacji, w których wynika to z użycia usług zewnętrznych dostawców poczty elektronicznej (np. Google LLC). W takich przypadkach dane mogą być przekazywane do państw trzecich (np. USA), ale wyłącznie na podstawie odpowiednich mechanizmów prawnych zapewniających ich bezpieczeństwo, zgodnie z art. 46 RODO, w tym standardowych klauzul ochrony danych zatwierdzonych przez Komisję Europejską.
+
 
 
 7. POSTANOWIENIA KOŃCOWE
@@ -470,6 +487,7 @@ Wiadomość e-mail (tylko jeśli adres został podany w zgłoszeniu).
 7.2. W przypadku braku akceptacji zmian, Użytkownik powinien usunąć Aplikację z Urządzenia.
 
 7.3. Polityka Prywatności wchodzi w życie 27 czerwca 2025 r.
+
 
 
 
@@ -500,6 +518,7 @@ LICENCJA KOŃCOWEGO UŻYTKOWNIKA
 1.4. Licencja wchodzi w życie z chwilą dokonania instalacji i uruchomienia Aplikacji na Urządzeniu oraz zaznaczenia oddzielnego pola „checkbox” przed pierwszym skorzystaniem z Aplikacji.
 
 
+
 2. ZAKRES UDZIELONEJ LICENCJI
 
 2.1. Dostawca udziela Użytkownikowi niewyłącznej, niezbywalnej, nieprzenoszalnej i niekomercyjnej licencji na korzystanie z Aplikacji wyłącznie na warunkach określonych w Regulaminie i niniejszym dokumencie.
@@ -510,13 +529,14 @@ LICENCJA KOŃCOWEGO UŻYTKOWNIKA
 
 2.3.1. Modyfikowania, dekompilacji, dezasemblacji lub pozyskiwania kodu źródłowego Aplikacji, z zastrzeżeniem praw Użytkownika wynikających z art. 75 ustawy o prawie autorskim i prawach pokrewnych, w szczególności:
 
-prawa do dekompilacji w celu osiągnięcia interoperacyjności (art. 75 ust. 2 pkt 3),
-prawa do badania funkcjonalności programu (art. 75 ust. 2 pkt 2),
-prawa do poprawiania błędów, jeżeli jest to niezbędne do korzystania z programu (art. 75 ust. 1).
+* prawa do dekompilacji w celu osiągnięcia interoperacyjności (art. 75 ust. 2 pkt 3),
+* prawa do badania funkcjonalności programu (art. 75 ust. 2 pkt 2),
+* prawa do poprawiania błędów, jeżeli jest to niezbędne do korzystania z programu (art. 75 ust. 1).
 
 2.3.2. Komercyjnego wykorzystywania Aplikacji, innego niż dozwolony użytek osobisty.
 
 2.3.3. Redystrybucji, wypożyczania, sublicencjonowania lub udostępniania Aplikacji osobom trzecim, z wyjątkiem sytuacji, gdy wynika to z bezwzględnie obowiązujących przepisów prawa.
+
 
 
 3. PRAWA AUTORSKIE I WŁASNOŚĆ INTELEKTUALNA
@@ -532,6 +552,7 @@ prawa do poprawiania błędów, jeżeli jest to niezbędne do korzystania z prog
 3.5. Żaden kod źródłowy komponentów, których autorami są osoby trzecie, nie został zmodyfikowany przez Twórcę.
 
 
+
 4. OGRANICZENIE ODPOWIEDZIALNOŚCI
 
 4.1. Aplikacja jest dostarczana w stanie „takim, jakim jest” („as-is”), bez jakiejkolwiek gwarancji, wyraźnej lub dorozumianej, w szczególności co do przydatności do określonego celu lub zgodności z oczekiwaniami Użytkownika.
@@ -545,6 +566,7 @@ prawa do poprawiania błędów, jeżeli jest to niezbędne do korzystania z prog
 4.5. Ograniczenie odpowiedzialności określone w niniejszej Licencji nie dotyczy szkód wyrządzonych umyślnie ani w wyniku rażącego niedbalstwa Dostawcy.
 
 
+
 5. OBOWIĄZKI UŻYTKOWNIKA
 
 5.1. Użytkownik zobowiązuje się do korzystania z Aplikacji w sposób zgodny z obowiązującym prawem, zasadami współżycia społecznego oraz niniejszą Licencją i Regulaminem.
@@ -552,13 +574,14 @@ prawa do poprawiania błędów, jeżeli jest to niezbędne do korzystania z prog
 5.2. Zabrania się wykorzystywania Aplikacji do jakichkolwiek celów niezgodnych z jej edukacyjnym charakterem, w szczególności celów komercyjnych.
 
 
+
 6. CZAS TRWANIA LICENCJI
 
 6.1. Licencja obowiązuje przez czas nieokreślony, chyba że:
 
-Użytkownik usunie Aplikację z urządzenia,
-Dostawca zakończy udostępnianie Aplikacji,
-Użytkownik naruszy istotne postanowienia niniejszej Licencji.
+* Użytkownik usunie Aplikację z urządzenia,
+* Dostawca zakończy udostępnianie Aplikacji,
+* Użytkownik naruszy istotne postanowienia niniejszej Licencji.
 
 6.2. W przypadku istotnego naruszenia Licencji przez Użytkownika (w szczególności: użycie w celach komercyjnych, odpłatne udostępnianie osobom trzecim), Dostawca może wypowiedzieć Licencję ze skutkiem natychmiastowym.
 
@@ -567,22 +590,24 @@ Użytkownik naruszy istotne postanowienia niniejszej Licencji.
 6.4. Jeżeli nastąpi zakończenie obowiązywania Licencji, Użytkownik jest zobowiązany do niezwłocznego zaprzestania korzystania z Aplikacji oraz jej usunięcia z Urządzenia.
 
 
+
 7. NARUSZENIE LICENCJI I SANKCJE
 
 7.1. Naruszenie przez Użytkownika istotnych postanowień niniejszej Licencji, w szczególności działania takie jak: 
 
-Nieuprawnione odpłatne rozpowszechnianie Aplikacji,
-Niezgodna z prawem modyfikacja kodu źródłowego Aplikacji, 
-Komercyjne wykorzystywanie Aplikacji, wykraczające poza dozwolony użytek osobisty,
-Dekompilacja kodu i udostępnianie go osobom trzecim w sposób niezgodny z prawem;
+* Nieuprawnione odpłatne rozpowszechnianie Aplikacji,
+* Niezgodna z prawem modyfikacja kodu źródłowego Aplikacji, 
+* Komercyjne wykorzystywanie Aplikacji, wykraczające poza dozwolony użytek osobisty,
+* Dekompilacja kodu i udostępnianie go osobom trzecim w sposób niezgodny z prawem;
 
 może skutkować podjęciem przez Dostawcę działań prawnych, takich jak:
 
-Niezwłoczne wypowiedzenie Licencji,
-Dochodzenie przez Dostawcę roszczeń cywilnoprawnych,
-Zgłoszenie rażących naruszeń odpowiednim organom ścigania.
+* Niezwłoczne wypowiedzenie Licencji,
+* Dochodzenie przez Dostawcę roszczeń cywilnoprawnych,
+* Zgłoszenie rażących naruszeń odpowiednim organom ścigania.
 
 7.2. W przypadku naruszenia praw do komponentów open-source użytych w Aplikacji, odpowiedzialność z tego tytułu ponosi Użytkownik, który naruszenia dokonał.
+
 
 
 8. POSTANOWIENIA KOŃCOWE
@@ -590,6 +615,7 @@ Zgłoszenie rażących naruszeń odpowiednim organom ścigania.
 8.1. Niniejsza Licencja podlega prawu polskiemu. W sprawach nieuregulowanych zastosowanie mają odpowiednie przepisy ustawy o prawie autorskim i prawach pokrewnych oraz Kodeksu cywilnego.
 
 8.2. Jeżeli jakiekolwiek postanowienie niniejszej Licencji okaże się nieważne lub nieskuteczne, nie wpływa to na ważność pozostałych postanowień.
+
 
 
 
@@ -609,58 +635,60 @@ POSTANOWIENIA OGÓLNE
 1.2. Wymagania mogą ulec zmianie w przypadku aktualizacji Aplikacji. Użytkownik zostanie poinformowany o zmianach zgodnie z Rozdziałem 14. Regulaminu.
 
 
+
 2. MINIMALNE WYMAGANIA TECHNICZNE
 
 2.1. Smartfony i tablety:
 
 2.1.1. Android:
 
-System operacyjny Android 8.1 (SDK 27) lub nowszy,
-Procesor z architekturą ARM64,
-Minimum 2 GB pamięci RAM,
-Wolna przestrzeń w pamięci urządzenia co najmniej 300 MB,
-Ekran o przekątnej 4.7” lub większy, rozdzielczość minimalna 360 x 640 pikseli,
-Obsługa OpenGL ES 2.0 lub nowszego.
+* System operacyjny Android 8.1 (SDK 27) lub nowszy,
+* Procesor z architekturą ARM64,
+* Minimum 2 GB pamięci RAM,
+* Wolna przestrzeń w pamięci urządzenia co najmniej 300 MB,
+* Ekran o przekątnej 4.7” lub większy, rozdzielczość minimalna 360 x 640 pikseli,
+* Obsługa OpenGL ES 2.0 lub nowszego.
 
 2.1.2. iOS (Apple):
 
-System operacyjny iOS 12.0 lub nowszy,
-Smartfon: iPhone 6s lub nowszy,
-Tablet: iPad 5. generacji lub nowszy,
-Minimum 2 GB pamięci RAM,
-Wolna przestrzeń w pamięci urządzenia co najmniej 300 MB,
-Ekran o przekątnej 4.7” lub większy.
+* System operacyjny iOS 12.0 lub nowszy,
+* Smartfon: iPhone 6s lub nowszy,
+* Tablet: iPad 5. generacji lub nowszy,
+* Minimum 2 GB pamięci RAM,
+* Wolna przestrzeń w pamięci urządzenia co najmniej 300 MB,
+* Ekran o przekątnej 4.7” lub większy.
 
 2.2. Komputery stacjonarne i laptopy:
 
 2.2.1. Windows:
 
-System Windows 10 (64-bitowy) lub nowszy,
-Procesor x64 z obsługą SSE4.2,
-Minimum 4 GB pamięci RAM,
-Wolne miejsce na dysku co najmniej 400 MB,
-Karta graficzna z obsługą DirectX 9 lub OpenGL 2.0,
-Minimalna rozdzielczość ekranu: 1366 x 768 pikseli.
+* System Windows 10 (64-bitowy) lub nowszy,
+* Procesor x64 z obsługą SSE4.2,
+* Minimum 4 GB pamięci RAM,
+* Wolne miejsce na dysku co najmniej 400 MB,
+* Karta graficzna z obsługą DirectX 9 lub OpenGL 2.0,
+* Minimalna rozdzielczość ekranu: 1366 x 768 pikseli.
 
 2.2.2. macOS (Apple):
 
-System macOS 10.13 (High Sierra) lub nowszy,
-Procesor Intel Core i5 (2012+) lub Apple M1,
-Minimum 4 GB pamięci RAM,
-Wolne miejsce na dysku co najmniej 400 MB,
-Minimalna rozdzielczość ekranu: 1366 x 768 pikseli.
+* System macOS 10.13 (High Sierra) lub nowszy,
+* Procesor Intel Core i5 (2012+) lub Apple M1,
+* Minimum 4 GB pamięci RAM,
+* Wolne miejsce na dysku co najmniej 400 MB,
+* Minimalna rozdzielczość ekranu: 1366 x 768 pikseli.
 
 2.2.3. Linux:
 
-Dystrybucja Linux z jądrem 5.0 lub nowszym,
-Biblioteki glibc 2.28 lub nowsze,
-Środowisko graficzne GNOME, KDE lub Xfce,
-Procesor x64 z obsługą SSE4.2,
-Minimum 4 GB pamięci RAM,
-Wolne miejsce na dysku co najmniej 400 MB,
-Obsługa OpenGL 2.0 lub nowszego,
-Aplikacja działa jedynie na dystrybucjach opartych na Debian/Ubuntu (np. Ubuntu 20.04+),
-Minimalna rozdzielczość ekranu: 1366 x 768 pikseli.
+* Dystrybucja Linux z jądrem 5.0 lub nowszym,
+* Biblioteki glibc 2.28 lub nowsze,
+* Środowisko graficzne GNOME, KDE lub Xfce,
+* Procesor x64 z obsługą SSE4.2,
+* Minimum 4 GB pamięci RAM,
+* Wolne miejsce na dysku co najmniej 400 MB,
+* Obsługa OpenGL 2.0 lub nowszego,
+* Aplikacja działa jedynie na dystrybucjach opartych na Debian/Ubuntu (np. Ubuntu 20.04+),
+* Minimalna rozdzielczość ekranu: 1366 x 768 pikseli.
+
 
 
 3. ZALECANE WYMAGANIA TECHNICZNE
@@ -669,69 +697,71 @@ Minimalna rozdzielczość ekranu: 1366 x 768 pikseli.
 
 3.1.1. Android:
 
-System operacyjny Android 10 lub nowszy,
-Procesor z architekturą ARM64 (np. Snapdragon 665 lub nowszy),
-Minimum 4 GB pamięci RAM,
-Wolna przestrzeń w pamięci urządzenia co najmniej 500 MB,
-Ekran o przekątnej 5.5” lub większy, rozdzielczość minimalna 480 x 720 pikseli,
-Obsługa OpenGL ES 3.0 lub nowszego.
+* System operacyjny Android 10 lub nowszy,
+* Procesor z architekturą ARM64 (np. Snapdragon 665 lub nowszy),
+* Minimum 4 GB pamięci RAM,
+* Wolna przestrzeń w pamięci urządzenia co najmniej 500 MB,
+* Ekran o przekątnej 5.5” lub większy, rozdzielczość minimalna 480 x 720 pikseli,
+* Obsługa OpenGL ES 3.0 lub nowszego.
 
 3.1.2. iOS (Apple):
 
-System operacyjny iOS 15 lub nowszy,
-Smartfon: iPhone 8 lub nowszy,
-Tablet: iPad 6. generacji lub nowszy,
-Minimum 4 GB pamięci RAM,
-Wolna przestrzeń w pamięci urządzenia co najmniej 500 MB,
-Ekran o przekątnej 5.4” lub większy.
+* System operacyjny iOS 15 lub nowszy,
+* Smartfon: iPhone 8 lub nowszy,
+* Tablet: iPad 6. generacji lub nowszy,
+* Minimum 4 GB pamięci RAM,
+* Wolna przestrzeń w pamięci urządzenia co najmniej 500 MB,
+* Ekran o przekątnej 5.4” lub większy.
 
 3.2. Komputery stacjonarne i laptopy:
 
 3.2.1. Windows:
 
-System Windows 11 (64-bitowy),
-Procesor Intel i5 8. generacji lub AMD Ryzen 5 lub nowszy,
-Minimum 8 GB pamięci RAM,
-Wolne miejsce na dysku co najmniej 500 MB,
-Karta graficzna z obsługą DirectX 11 lub nowszego,
-Ekran Full HD (1920 x 1080) lub wyższy.
+* System Windows 11 (64-bitowy),
+* Procesor Intel i5 8. generacji lub AMD Ryzen 5 lub nowszy,
+* Minimum 8 GB pamięci RAM,
+* Wolne miejsce na dysku co najmniej 500 MB,
+* Karta graficzna z obsługą DirectX 11 lub nowszego,
+* Ekran Full HD (1920 x 1080) lub wyższy.
 
 3.2.2. macOS (Apple):
 
-System macOS 12 (Monterey) lub nowszy,
-Procesor Apple M1 lub nowszy (lub Intel i5 2015+),
-Minimum 8 GB pamięci RAM,
-Wolne miejsce na dysku co najmniej 500 MB,
-Ekran Retina 13” lub większy.
+* System macOS 12 (Monterey) lub nowszy,
+* Procesor Apple M1 lub nowszy (lub Intel i5 2015+),
+* Minimum 8 GB pamięci RAM,
+* Wolne miejsce na dysku co najmniej 500 MB,
+* Ekran Retina 13” lub większy.
 
 3.2.3. Linux:
 
-Dystrybucja Linux oparta na Ubuntu 22.04 LTS lub nowsza,
-Jądro Linux 5.15+,
-Biblioteki glibc 2.31 lub nowsze,
-Środowisko graficzne GNOME 42+, KDE Plasma 5.25+ lub Xfce 4.18+,
-Procesor x64 z obsługą SSE4.2 (Intel i5 / AMD Ryzen),
-Minimum 8 GB pamięci RAM,
-Wolne miejsce na dysku co najmniej 500 MB,
-Obsługa OpenGL 3.0 lub nowszego,
-Ekran Full HD (1920 x 1080) lub wyższy.
+* Dystrybucja Linux oparta na Ubuntu 22.04 LTS lub nowsza,
+* Jądro Linux 5.15+,
+* Biblioteki glibc 2.31 lub nowsze,
+* Środowisko graficzne GNOME 42+, KDE Plasma 5.25+ lub Xfce 4.18+,
+* Procesor x64 z obsługą SSE4.2 (Intel i5 / AMD Ryzen),
+* Minimum 8 GB pamięci RAM,
+* Wolne miejsce na dysku co najmniej 500 MB,
+* Obsługa OpenGL 3.0 lub nowszego,
+* Ekran Full HD (1920 x 1080) lub wyższy.
+
 
 
 4. DODATKOWE ZALEŻNOŚCI ŚRODOWISKOWE
 
 4.1. Aplikacja wymaga dostępu do Internetu tylko do:
 
-Pobierania ważnych wymaganych aktualizacji,
-Podglądu i pobierania wyselekcjonowanej listy aktów prawnych,
-Umożliwienia kontaktu pomiędzy Użytkownikiem a Dostawcą.
+* Pobierania ważnych wymaganych aktualizacji,
+* Podglądu i pobierania wyselekcjonowanej listy aktów prawnych,
+* Umożliwienia kontaktu pomiędzy Użytkownikiem a Dostawcą.
 
 4.2. Do pobrania Aplikacji na Urządzenie, wymagane jest posiadanie aktywnego konta użytkownika w jednej z wymienionych niżej usług, w zależności od systemu operacyjnego Urządzenia:
 
-Android – sklep Google Play,
-iOS – sklep App Store,
-macOS – sklep App Store,
-Windows – sklep Microsoft Store,
-Linux – platforma Flatpak.
+* Android – sklep Google Play,
+* iOS – sklep App Store,
+* macOS – sklep App Store,
+* Windows – sklep Microsoft Store,
+* Linux – platforma Flatpak.
+
 
 
 5. UPRAWNIENIA SYSTEMOWE
@@ -745,6 +775,7 @@ Linux – platforma Flatpak.
 5.1.3. Pamięć lokalna (wyłącznie zapis i odczyt plików Aplikacji) – obligatoryjnie; większość Urządzeń nie wymaga przyznania oddzielnie tego uprawnienia, stosując domyślną zgodę na dostęp aplikacji do pamięci wewnętrznej.
 
 5.2. Funkcjonalność pobierania aktów prawnych z wyselekcjonowanej listy umieszczonej w Aplikacji może być dostępna jedynie po przyznaniu odpowiednich uprawnień systemowych usługom stron trzecich, takich jak np. przeglądarka internetowa lub menedżer pobierania plików.
+
 
 
 6. POSTANOWIENIA KOŃCOWE

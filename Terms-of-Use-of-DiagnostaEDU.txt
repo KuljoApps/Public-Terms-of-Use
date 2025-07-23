@@ -2,9 +2,10 @@ TERMS OF USE
 
 Terms of Use for the Diagnosta EDU Educational Application
 
-General Provisions
 
-1.1. These Terms of Use define the rules for using the Diagnosta EDU software – hereinafter referred to as the “Application.” By using the Application, the User accepts all provisions of these Terms, including the data protection rules and licensing terms.
+1. General Provisions
+
+1.1. These Terms of Use define the rules for using the Diagnosta EDU software – hereinafter referred to as the “Application”. By using the Application, the User accepts all provisions of these Terms, including the data protection rules and licensing terms.
 
 1.2. These Terms are governed by Polish law and have been prepared in accordance with applicable regulations, including the Consumer Rights Act and the General Data Protection Regulation (GDPR)⁽¹⁾.
 
@@ -13,6 +14,7 @@ General Provisions
 1.4. The administrator of personal data and the entity responsible for providing and maintaining the Application is a private individual – Damian Kuliś, residing at Jarosława Dąbrowskiego 18/6, 02-561 Warsaw, Poland.
 
 1.5. Damian Kuliś operates on a non-registered basis, under his own name and the unregistered brand KULJO APPS, without conducting a business activity as defined by the Polish Entrepreneurs’ Law (Journal of Laws of the Republic of Poland 2018, item 646).
+
 
 
 2. Definitions
@@ -52,21 +54,23 @@ General Provisions
 3.6. The complete technical requirements for all operating systems on which the Application may be installed are included in Annex No. 3 to these Terms.
 
 
+
 4. Distribution and Installation
 
 4.1. The Provider distributes the Application exclusively through authorized and official distribution channels that are native to the operating system of the User’s Device. These platforms are strictly limited to:
 
-Android – Google Play Store
-iOS – App Store
-macOS – App Store
-Windows – Microsoft Store
-Linux – Flatpak platform
+* Android – Google Play Store
+* iOS – App Store
+* macOS – App Store
+* Windows – Microsoft Store
+* Linux – Flatpak platform
 
 4.2. Users are solely responsible for all data transmission costs related to downloading, installing, launching, and using the Application, in accordance with the terms of agreements concluded with their telecommunications operators or internet service providers.
 
 4.3. The Provider is not liable for any charges imposed by operators or internet service providers for the data transmission necessary to use the Application.
 
 4.4. Upon installation and initial launch of the Application, the User is required to review and accept these Terms. Without acceptance, the functionalities of the Application will not be accessible.
+
 
 
 5. Functionality and Operation
@@ -100,6 +104,7 @@ Linux – Flatpak platform
 5.5. Any changes introduced may affect how the Application operates but will not alter its core purpose as an educational tool.
 
 
+
 6. Character – User Account
 
 6.1. Creating a Character is not required for general use of the Application. However, it provides access to many features reserved only for Users who have created their own Character in the Application.
@@ -112,7 +117,7 @@ Linux – Flatpak platform
 
 6.2.3. The User must not use any words or proper names that are generally considered vulgar, offensive, or inappropriate as the Character’s name.
 
-6.2.4. It is forbidden for the User to use personal data of third parties—if knowingly—when naming the Character.
+6.2.4. It is forbidden for the User to use personal data of third parties, if knowingly, when naming the Character.
 
 6.2.5. When creating the 5-digit PIN code for the Character, the User should not use any number combinations that are also used for sensitive services (e.g., bank, email, government accounts).
 
@@ -137,6 +142,7 @@ Linux – Flatpak platform
 6.3. The visual representations used to create Characters in the Application do not depict real individuals and have been generated using artificial intelligence tools.
 
 
+
 7. Free Access to the Application
 
 7.1. The Diagnosta EDU Application is completely free of charge and does not include any subscriptions or micro-transactions.
@@ -144,6 +150,7 @@ Linux – Flatpak platform
 7.2. All features are available to Users without the need to make any payments.
 
 7.3. The Application is and shall remain entirely free for Users for as long as it is provided by the current Provider.
+
 
 
 8. Contact and Technical Support
@@ -156,12 +163,13 @@ Linux – Flatpak platform
 
 8.4. A report concerning the Application should include at least the following information:
 
-Device operating system
-Device model (approximate)
-Brief description of the issue
-Date when the error occurred
+* Device operating system
+* Device model (approximate)
+* Brief description of the issue
+* Date when the error occurred
 
 8.5. The Provider reserves the right to disregard reports that are illegible, incomplete, offensive, or unrelated to the functioning of the Application.
+
 
 
 9. Privacy and Data Protection
@@ -195,6 +203,7 @@ Date when the error occurred
 9.8. The full Privacy Policy is included below and constitutes Annex No. 1 to these Terms.
 
 
+
 10. Liability
 
 10.1. The Provider maintains ongoing oversight of the technical performance of the Application and makes every effort to ensure its proper functioning.
@@ -224,6 +233,7 @@ Date when the error occurred
 10.6. The limitation of liability set forth in these Terms does not apply to damages caused intentionally or through gross negligence on the part of the Provider.
 
 
+
 11. Termination of Use
 
 11.1. The User may discontinue use of the Application at any time, particularly in the following cases:
@@ -237,6 +247,7 @@ Date when the error occurred
 11.2. Discontinuation of use requires uninstalling the Application from the Device.
 
 11.3. The Application has been designed so that the uninstallation process removes all Application-related data from the Device, including Character data and User progress.
+
 
 
 12. Licensing Provisions
@@ -254,6 +265,7 @@ Date when the error occurred
 12.6. The full text of the Application’s license is included in Annex No. 2 to these Terms.
 
 
+
 13. Voluntary Support for the Creator
 
 13.1. The Application is free of charge, and the Provider does not require the User to pay any fees for downloading, installing, launching, or using the Application (see: Section 7.).
@@ -267,6 +279,7 @@ Date when the error occurred
 13.5. The Provider does not conduct any form of organized public fundraising.
 
 13.6. Financial support is not required to use the Application, does not affect its functionality or availability, and does not constitute a part of the service agreement.
+
 
 
 14. Amendments to the Terms
@@ -339,6 +352,7 @@ Phone*:  +48 600 130 255
 * – Phone or SMS contact is optional and is provided solely for the convenience of Users. The Controller does not promote this form of communication and is not responsible for any call or message charges incurred by the User in accordance with their operator’s tariff plan.
 
 
+
 2. SCOPE AND LEGAL BASIS OF DATA PROCESSING
 
 2.1. The Application does not collect or process Users’ personal data automatically, except for data voluntarily provided in contact inquiries.
@@ -347,14 +361,14 @@ Phone*:  +48 600 130 255
 
 2.2.1. Contact data – only in the case of inquiries submitted by the User:
 
-E-mail address,
-Phone number,
-User’s personal data – not required by the Controller but may be provided voluntarily by the User.
+* E-mail address,
+* Phone number,
+* User’s personal data – not required by the Controller but may be provided voluntarily by the User.
 
 2.2.2. Technical data – solely for the purpose of diagnosing technical issues:
 
-Operating system of the Device,
-Device model (approximate or exact).
+* Operating system of the Device,
+* Device model (approximate or exact).
 
 2.3. Data related to the “Character” (the fictional user account within the Application) is stored exclusively locally on the Device, in the Application’s cache memory, without being transmitted to the Controller.
 
@@ -364,28 +378,30 @@ Device model (approximate or exact).
 
 2.6.  Legal basis for processing:
 
-Art. 6(1)(b) GDPR (performance of a contract) – for responding to contact inquiries,
-Art. 6(1)(f) GDPR (legitimate interest of the Controller) – for improving Application functionality and error analysis,
-Art. 8(1) GDPR (conditions for child consent) – applicable cases of children using the Application.
+* Art. 6(1)(b) GDPR (performance of a contract) – for responding to contact inquiries,
+* Art. 6(1)(f) GDPR (legitimate interest of the Controller) – for improving Application functionality and error analysis,
+* Art. 8(1) GDPR (conditions for child consent) – applicable cases of children using the Application.
+
 
 
 3. PURPOSES OF DATA PROCESSING
 
 3.1. Data are processed solely for the following purposes:
 
-Responding to technical inquiries, questions, and suggestions regarding the Application,
-Improving the performance of the Application,
-Ensuring User security.
+* Responding to technical inquiries, questions, and suggestions regarding the Application,
+* Improving the performance of the Application,
+* Ensuring User security.
 
 3.2. Retention periods:
 
-Contact data – up to 30 days from the end of communication,
-Technical data (e.g., error report statistics) – up to 2 years from receipt,
-Substantive content of inquiries (e.g., ideas for new features) – up to 5 lat from receipt.
+* Contact data – up to 30 days from the end of communication,
+* Technical data (e.g., error report statistics) – up to 2 years from receipt,
+* Substantive content of inquiries (e.g., ideas for new features) – up to 5 years from receipt.
 
 3.3. All data are stored no longer than necessary to achieve the purposes for which they were collected, in accordance with section 3.2.
 
 3.4. All data retained longer than 30 days after the end of communication with the User will be processed exclusively after anonymization.
+
 
 
 4. DATA SECURITY
@@ -394,33 +410,34 @@ Substantive content of inquiries (e.g., ideas for new features) – up to 5 lat 
 
 Are encrypted according to the risk level (AES-256 algorithm) and stored exclusively locally on the User’s Device,
 
-Are not transferred to external servers,
-The Controller has no access to these data.
+* Are not transferred to external servers,
+* The Controller has no access to these data.
 
 4.2. Users’ contact data provided to the Controller:
 
 4.2.1. Via e-mail:
 
-Are stored in the Google Gmail email system with access restricted solely to the Controller,
-Access to the mailbox is protected by multi-factor authentication.
+* Are stored in the Google Gmail email system with access restricted solely to the Controller,
+* Access to the mailbox is protected by multi-factor authentication.
 
 4.2.2. Via SMS/calls to the provided phone number:
 
-Are stored in the local memory of a smartphone owned exclusively by the Controller,
-The device has the latest security updates provided by the manufacturer,
-Access to the device is protected by two-factor authentication, including the Controller’s personal biometric verification.
+* Are stored in the local memory of a smartphone owned exclusively by the Controller,
+* The device has the latest security updates provided by the manufacturer,
+* Access to the device is protected by two-factor authentication, including the Controller’s personal biometric verification.
 
 4.2.3. Should be limited to the minimum necessary to enable proper contact between the Controller and the User.
 
 4.3. Technical measures employed to ensure data security:
 
-Regular password changes for email client and Controller’s devices,
-Ongoing software updates of devices storing data,
-Ensuring no unauthorized third-party access to contact data,
-Anonymization of all data after 30 days from the end of communication,
-Monitoring of unauthorized access attempts to data or devices.
+* Regular password changes for email client and Controller’s devices,
+* Ongoing software updates of devices storing data,
+* Ensuring no unauthorized third-party access to contact data,
+* Anonymization of all data after 30 days from the end of communication,
+* Monitoring of unauthorized access attempts to data or devices.
 
-4.4. n the event of a personal data breach, the Controller shall take actions in accordance with Articles 33–34 of the GDPR, including notifying Users via available communication channels and, if required, the Personal Data Protection Office (PUODO).
+4.4. In the event of a personal data breach, the Controller shall take actions in accordance with Articles 33–34 of the GDPR, including notifying Users via available communication channels and, if required, the Personal Data Protection Office (PDPO).
+
 
 
 5. USERS’ RIGHTS
@@ -429,17 +446,18 @@ Monitoring of unauthorized access attempts to data or devices.
 
 5.2. The User has the right to:
 
-Access their data (Art. 15 GDPR),
-Rectify or erase data (Arts. 16–17 GDPR),
-Restrict processing (Art. 18 GDPR),
-Data portability (Art. 20 GDPR) – where applicable,
-Object to processing (Art. 21 GDPR),
-Withdraw consent (Art. 13 GDPR),
-Lodge a complaint with the President of the Personal Data Protection Office (PUODO).
+* Access their data (Art. 15 GDPR),
+* Rectify or erase data (Arts. 16–17 GDPR),
+* Restrict processing (Art. 18 GDPR),
+* Data portability (Art. 20 GDPR) – where applicable,
+* Object to processing (Art. 21 GDPR),
+* Withdraw consent (Art. 13 GDPR),
+* Lodge a complaint with the President of the Personal Data Protection Office (PDPO).
 
 5.3. Requests should be sent to the following e-mail address:  kuljoapps@gmail.com
 
 5.4. The Controller undertakes to respond promptly to all valid requests from Users concerning their rights under the GDPR, observing a maximum response time of 30 days.
+
 
 
 6. COOKIES AND TRACKING TECHNOLOGIES
@@ -450,24 +468,26 @@ Lodge a complaint with the President of the Personal Data Protection Office (PUO
 
 6.3. Required Internet access is used solely for the purposes of:
 
-Installing the Application on the Device,
-Downloading updates,
-Browsing and downloading a selected list of legal acts,
-Communication between the Controller and the User, if the User chooses this form.
+* Installing the Application on the Device,
+* Downloading updates,
+* Browsing and downloading a selected list of legal acts,
+* Communication between the Controller and the User, if the User chooses this form.
 
 6.4. Users’ personal data are not transferred by the Controller outside the European Economic Area (EEA), except in cases resulting from the use of external e-mail service providers (e.g., Google LLC). In such cases, data may be transferred to third countries (e.g., the USA), but solely based on appropriate legal mechanisms ensuring data protection, pursuant to Art. 46 GDPR, including the standard data protection clauses approved by the European Commission.
+
 
 
 7. FINAL PROVISIONS
 
 7.1. The Controller reserves the right to update the Privacy Policy. Users will be notified 14 days in advance by:
 
-A message in the Application, which cannot be overlooked by the User upon the next restart of the Application’s system process on a Device connected to the Internet,
-An e-mail message (only if the address was provided in the inquiry).
+* A message in the Application, which cannot be overlooked by the User upon the next restart of the Application’s system process on a Device connected to the Internet,
+* An e-mail message (only if the address was provided in the inquiry).
 
 7.2. If the User does not accept the changes, they should uninstall the Application from their Device.
 
 7.3. This Privacy Policy shall enter into force on June 27, 2025.
+
 
 
 
@@ -496,6 +516,7 @@ END USER LICENSE AGREEMENT (EULA)
 1.4. The License comes into effect upon installation and first launch of the Application on the Device, as well as marking the separate checkbox before the first use of the Application.
 
 
+
 2. SCOPE OF THE GRANTED LICENSE
 
 2.1. The Provider grants the User a non-exclusive, non-transferable, non-assignable, and non-commercial license to use the Application solely under the terms specified in the Terms of Use and this document.
@@ -506,13 +527,14 @@ END USER LICENSE AGREEMENT (EULA)
 
 2.3.1. Modify, decompile, disassemble, or extract the source code of the Application, except for the User’s rights arising under Article 75 of the Act on Copyright and Related Rights, in particular:
 
-The right to decompile for interoperability purposes (Art. 75(2)(3)),
-The right to examine the program’s functionality (Art. 75(2)(2)),
-The right to correct errors if necessary for using the program (Art. 75(1)).
+* The right to decompile for interoperability purposes (Art. 75(2)(3)),
+* The right to examine the program’s functionality (Art. 75(2)(2)),
+* The right to correct errors if necessary for using the program (Art. 75(1)).
 
 2.3.2. Commercially exploit the Application beyond permitted personal use.
 
 2.3.3. Redistribute, rent, sublicense, or make the Application available to third parties, except as required by mandatory legal provisions.
+
 
 
 3. COPYRIGHT AND INTELLECTUAL PROPERTY
@@ -528,6 +550,7 @@ The right to correct errors if necessary for using the program (Art. 75(1)).
 3.5. No source code of third-party components has been modified by the Creator.
 
 
+
 4. LIMITATION OF LIABILITY
 
 4.1. The Application is provided on an „as-is” basis, without any express or implied warranty, including but not limited to fitness for a particular purpose or conformity with the User’s expectations.
@@ -541,6 +564,7 @@ The right to correct errors if necessary for using the program (Art. 75(1)).
 4.5. The limitation of liability set forth in this License does not apply to damages caused intentionally or as a result of gross negligence by the Provider.
 
 
+
 5. USER OBLIGATIONS
 
 5.1. The User agrees to use the Application in compliance with applicable laws, principles of social conduct, as well as the provisions of this License and the Terms of Use.
@@ -548,13 +572,14 @@ The right to correct errors if necessary for using the program (Art. 75(1)).
 5.2. The use of the Application for any purposes inconsistent with its educational nature is strictly prohibited, particularly for commercial purposes.
 
 
+
 6. TERM OF THE LICENSE
 
 6.1. The License is granted for an indefinite period, unless:
 
-the User removes the Application from their Device,
-the Provider discontinues the distribution of the Application,
-the User breaches any material provisions of this License.
+* the User removes the Application from their Device,
+* the Provider discontinues the distribution of the Application,
+* the User breaches any material provisions of this License.
 
 6.2. In the event of a material breach of the License by the User (in particular: commercial use or making the Application available to third parties for a fee), the Provider may terminate the License with immediate effect.
 
@@ -563,22 +588,24 @@ the User breaches any material provisions of this License.
 6.4. Upon termination of the License, the User is obliged to immediately cease using the Application and to delete it from their Device.
 
 
+
 7. LICENSE VIOLATIONS AND SANCTIONS
 
 7.1. A breach by the User of any material provisions of this License—particularly actions such as:
 
-Unauthorized paid distribution of the Application,
-Illegal modification of the Application’s source code,
-Commercial use of the Application beyond permitted personal use,
-Decompilation of the code and sharing it with third parties in violation of the law;
+* Unauthorized paid distribution of the Application,
+* Illegal modification of the Application’s source code,
+* Commercial use of the Application beyond permitted personal use,
+* Decompilation of the code and sharing it with third parties in violation of the law;
 
 may result in the Provider taking legal action, including but not limited to:
 
-Immediate termination of the License,
-Pursuit of civil claims by the Provider,
-Reporting of gross violations to the appropriate law enforcement authorities.
+* Immediate termination of the License,
+* Pursuit of civil claims by the Provider,
+* Reporting of gross violations to the appropriate law enforcement authorities.
 
 7.2. In the event of a violation of rights related to open-source components used within the Application, liability shall rest solely with the User who committed the infringement.
+
 
 
 8. FINAL PROVISIONS
@@ -586,6 +613,8 @@ Reporting of gross violations to the appropriate law enforcement authorities.
 8.1. This License is governed by the laws of the Republic of Poland. In matters not regulated herein, the relevant provisions of the Act on Copyright and Related Rights and the Civil Code shall apply.
 
 8.2. If any provision of this License is found to be invalid or unenforceable, the validity of the remaining provisions shall not be affected.
+
+
 
 
 
@@ -605,58 +634,60 @@ GENERAL PROVISIONS
 1.2. These requirements may change following updates to the Application. The User will be notified of such changes in accordance with Chapter 14 of the Terms of Use.
 
 
+
 2. MINIMUM TECHNICAL REQUIREMENTS
 
 2.1. Smartphones and tablets:
 
 2.1.1. Android:
 
-Android operating system version 8.1 (SDK 27) or later,
-ARM64 processor architecture,
-Minimum 2 GB of RAM,
-At least 300 MB of free device storage,
-Display with a diagonal of 4.7” or larger, minimum resolution of 360 x 640 pixels,
-Support for OpenGL ES 2.0 or higher.
+* Android operating system version 8.1 (SDK 27) or later,
+* ARM64 processor architecture,
+* Minimum 2 GB of RAM,
+* At least 300 MB of free device storage,
+* Display with a diagonal of 4.7” or larger, minimum resolution of 360 x 640 pixels,
+* Support for OpenGL ES 2.0 or higher.
 
 2.1.2. iOS (Apple):
 
-iOS operating system version 12.0 or later,
-Smartphone: iPhone 6s or newer,
-Tablet: iPad (5th generation) or newer,
-Minimum 2 GB of RAM,
-At least 300 MB of free device storage,
-Display with a diagonal of 4.7” or larger.
+* iOS operating system version 12.0 or later,
+* Smartphone: iPhone 6s or newer,
+* Tablet: iPad (5th generation) or newer,
+* Minimum 2 GB of RAM,
+* At least 300 MB of free device storage,
+* Display with a diagonal of 4.7” or larger.
 
 2.2. Desktop and laptop computers:
 
 2.2.1. Windows:
 
-Windows 10 (64-bit) or newer,
-x64 processor with SSE4.2 support,
-Minimum 4 GB of RAM,
-At least 400 MB of free disk space,
-Graphics card supporting DirectX 9 or OpenGL 2.0,
-Minimum screen resolution: 1366 x 768 pixels.
+* Windows 10 (64-bit) or newer,
+* x64 processor with SSE4.2 support,
+* Minimum 4 GB of RAM,
+* At least 400 MB of free disk space,
+* Graphics card supporting DirectX 9 or OpenGL 2.0,
+* Minimum screen resolution: 1366 x 768 pixels.
 
 2.2.2. macOS (Apple):
 
-macOS version 10.13 (High Sierra) or later,
-Intel Core i5 (2012 or newer) or Apple M1 processor,
-Minimum 4 GB of RAM,
-At least 400 MB of free disk space,
-Minimum screen resolution: 1366 x 768 pixels.
+* macOS version 10.13 (High Sierra) or later,
+* Intel Core i5 (2012 or newer) or Apple M1 processor,
+* Minimum 4 GB of RAM,
+* At least 400 MB of free disk space,
+* Minimum screen resolution: 1366 x 768 pixels.
 
 2.2.3. Linux:
 
-Linux distribution with kernel version 5.0 or later,
-glibc version 2.28 or later,
-GNOME, KDE, or Xfce desktop environment,
-x64 processor with SSE4.2 support,
-Minimum 4 GB of RAM,
-At least 400 MB of free disk space,
-Support for OpenGL 2.0 or higher,
-The Application works only on Debian/Ubuntu-based distributions (e.g., Ubuntu 20.04+),
-Minimum screen resolution: 1366 x 768 pixels.
+* Linux distribution with kernel version 5.0 or later,
+* glibc version 2.28 or later,
+* GNOME, KDE, or Xfce desktop environment,
+* x64 processor with SSE4.2 support,
+* Minimum 4 GB of RAM,
+* At least 400 MB of free disk space,
+* Support for OpenGL 2.0 or higher,
+* The Application works only on Debian/Ubuntu-based distributions (e.g., Ubuntu 20.04+),
+* Minimum screen resolution: 1366 x 768 pixels.
+
 
 
 3. RECOMMENDED TECHNICAL REQUIREMENTS
@@ -665,69 +696,71 @@ Minimum screen resolution: 1366 x 768 pixels.
 
 3.1.1. Android:
 
-Android operating system version 10 or later,
-ARM64 processor architecture (e.g., Snapdragon 665 or newer),
-Minimum 4 GB of RAM,
-At least 500 MB of free device storage,
-Display with a diagonal of 5.5” or larger, minimum resolution of 480 x 720 pixels,
-Support for OpenGL ES 3.0 or higher.
+* Android operating system version 10 or later,
+* ARM64 processor architecture (e.g., Snapdragon 665 or newer),
+* Minimum 4 GB of RAM,
+* At least 500 MB of free device storage,
+* Display with a diagonal of 5.5” or larger, minimum resolution of 480 x 720 pixels,
+* Support for OpenGL ES 3.0 or higher.
 
 3.1.2. iOS (Apple):
 
-iOS operating system version 15 or later,
-Smartphone: iPhone 8 or newer,
-Tablet: iPad (6th generation) or newer,
-Minimum 4 GB of RAM,
-At least 500 MB of free device storage,
-Display with a diagonal of 5.4” or larger.
+* iOS operating system version 15 or later,
+* Smartphone: iPhone 8 or newer,
+* Tablet: iPad (6th generation) or newer,
+* Minimum 4 GB of RAM,
+* At least 500 MB of free device storage,
+* Display with a diagonal of 5.4” or larger.
 
 3.2. Desktop and laptop computers:
 
 3.2.1. Windows:
 
-Windows 11 (64-bit),
-Intel i5 (8th generation) or AMD Ryzen 5 processor or newer,
-Minimum 8 GB of RAM,
-At least 500 MB of free disk space,
-Graphics card supporting DirectX 11 or higher,
-Full HD display (1920 x 1080) or higher.
+* Windows 11 (64-bit),
+* Intel i5 (8th generation) or AMD Ryzen 5 processor or newer,
+* Minimum 8 GB of RAM,
+* At least 500 MB of free disk space,
+* Graphics card supporting DirectX 11 or higher,
+* Full HD display (1920 x 1080) or higher.
 
 3.2.2. macOS (Apple):
 
-macOS version 12 (Monterey) or later,
-Apple M1 processor or newer (or Intel i5 2015+),
-Minimum 8 GB of RAM,
-At least 500 MB of free disk space,
-Retina display 13” or larger.
+* macOS version 12 (Monterey) or later,
+* Apple M1 processor or newer (or Intel i5 2015+),
+* Minimum 8 GB of RAM,
+* At least 500 MB of free disk space,
+* Retina display 13” or larger.
 
 3.2.3. Linux:
 
-Linux distribution based on Ubuntu 22.04 LTS or later,
-Linux kernel version 5.15 or later,
-glibc version 2.31 or later,
-GNOME 42+, KDE Plasma 5.25+, or Xfce 4.18+ desktop environment,
-x64 processor with SSE4.2 support (Intel i5 / AMD Ryzen),
-Minimum 8 GB of RAM,
-At least 500 MB of free disk space,
-Support for OpenGL 3.0 or higher,
-Full HD display (1920 x 1080) or higher.
+* Linux distribution based on Ubuntu 22.04 LTS or later,
+* Linux kernel version 5.15 or later,
+* glibc version 2.31 or later,
+* GNOME 42+, KDE Plasma 5.25+, or Xfce 4.18+ desktop environment,
+* x64 processor with SSE4.2 support (Intel i5 / AMD Ryzen),
+* Minimum 8 GB of RAM,
+* At least 500 MB of free disk space,
+* Support for OpenGL 3.0 or higher,
+* Full HD display (1920 x 1080) or higher.
+
 
 
 4. ADDITIONAL ENVIRONMENTAL DEPENDENCIES
 
 4.1. The Application requires Internet access solely for the purposes of:
 
-Downloading critical mandatory updates,
-Viewing and downloading a selected list of legal acts,
-Enabling communication between the User and the Provider.
+* Downloading critical mandatory updates,
+* Viewing and downloading a selected list of legal acts,
+* Enabling communication between the User and the Provider.
 
 4.2. To download the Application onto a Device, an active user account is required in one of the following services, depending on the Device’s operating system:
 
-Android – Google Play Store,
-iOS – App Store,
-macOS – App Store,
-Windows – Microsoft Store,
-Linux – Flatpak platform.
+* Android – Google Play Store,
+* iOS – App Store,
+* macOS – App Store,
+* Windows – Microsoft Store,
+* Linux – Flatpak platform.
+
 
 
 5. SYSTEM PERMISSIONS
@@ -741,6 +774,7 @@ Linux – Flatpak platform.
 5.1.3. Local storage (Application file read and write only) – mandatory; most Devices do not require this permission to be granted separately, as default consent to application access to internal storage is assumed.
 
 5.2. The functionality of downloading legal acts from the selected list within the Application may only be available after granting the necessary system permissions to third-party services, such as a web browser or a file download manager.
+
 
 
 6. FINAL PROVISIONS
